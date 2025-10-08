@@ -1,6 +1,21 @@
 # Bluetooth Network Modeling Workshop
 
+## Description
+The Bluetooth Network Modeling Workshop offers hands-on exercises designed to teach the end-to-end network modeling workflow in MATLAB. 
+Through guided activities, Participants will analyze the mutual interference between Bluetooth and WLAN networks.
+With minimal coding effort, you'll be able to visualize network behavior and evaluate performance metrics in realistic scenarios.
 
+## Target Audience:
+Wireless System Engineers, and PHY/MAC Engineers who are currently using or interested in exploring how connectivity (WLAN and Bluetooth) network Coexistence simulations, including Bluetooth LE and networks can be performed in MATLAB.
+ 
+## Learning Outcomes:
+ 
+* Gain an overview of Bluetooth network simulation in MATLAB.
+* Model and simulate Bluetooth LE and LE Audio networks.
+* Analyze the effects of WLAN interference on Bluetooth performance
+* Simulate collaborative and non-collaborative coexistence mechanisms for WLAN and Bluetooth 
+* Model practical Bluetooth networks, such as in residential scenarios.
+* Log and visualize simulation results for further analysis.
 
 This repo contains the files required to run the hands-on Bluetooth network modeling workshop in MATLAB®. The "Exercise" files require code additions to  
 run.  The "Solution Scripts" files have the required code additions and run  
