@@ -49,6 +49,7 @@ Requires MATLAB release R2024b or newer
 
 * [Communications Toolbox Wireless Network Simulation Library;](https://www.mathworks.com/matlabcentral/fileexchange/119923-communications-toolbox-wireless-network-simulation-library)
 * [Bluetooth Toolbox™](https://in.mathworks.com/products/bluetooth.html)
+* [WLAN Toolbox™](https://in.mathworks.com/products/wlan.html)
 * [DSP System Toolbox™](https://www.mathworks.com/products/dsp-system.html)
 * [Communications Toolbox™](https://www.mathworks.com/products/communications.html)
 * [Signal Processing Toolbox™](https://www.mathworks.com/products/signal.html)
