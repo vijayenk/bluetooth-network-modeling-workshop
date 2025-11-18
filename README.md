@@ -45,7 +45,7 @@ To Run:
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB release R2024b or newer
+Requires the latest MATLAB release
 
 * [Communications Toolbox Wireless Network Simulation Library;](https://www.mathworks.com/matlabcentral/fileexchange/119923-communications-toolbox-wireless-network-simulation-library)
 * [Bluetooth Toolbox™](https://in.mathworks.com/products/bluetooth.html)

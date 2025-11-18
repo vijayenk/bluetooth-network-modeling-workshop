@@ -412,8 +412,8 @@ classdef helperPlotPacketTransitions < handle
             resolution = get(0,"screensize");
             screenWidth = resolution(3);
             screenHeight = resolution(4);
-            figureWidth = screenWidth*0.85;
-            figureHeight = screenHeight*0.8;
+            figureWidth = screenWidth*0.3;
+            figureHeight = screenHeight*0.3;
 
             % Create the UI figure
             if obj.FrequencyPlotFlag
