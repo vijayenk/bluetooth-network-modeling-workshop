@@ -1,7 +1,7 @@
 # Bluetooth Network Modeling Workshop
 
 ## Overview
-The **Bluetooth Network Modeling Workshop** provides hands-on exercises to explore the **end-to-end workflow for Bluetooth network modeling and simulation in MATLAB**.
+The **Bluetooth Network Modeling Workshop** provides hands-on exercises to explore the **end-to-end workflow for Bluetooth network modeling and simulation in MATLAB®**.
 
 ## What You Will Learn
 - Model **Bluetooth sensor and audio networks**
@@ -22,7 +22,7 @@ The **Bluetooth Network Modeling Workshop** provides hands-on exercises to explo
 
 ## Repository Overview
 
-This repository contains the files required to run the **hands-on Bluetooth network modeling workshop in MATLAB®**.
+This repository contains the files required to run the **hands-on Bluetooth network modeling workshop in MATLAB**.
 
 - **Exercise files** require code additions to run  
 - **Explanation files** include the required code and run to completion with additional details   
