@@ -1,6 +1,4 @@
-
 function plotTrafficPattern(simulationDuration,cfgPeriodic)
-
 currentTime = 0;         % Current simulation time
 packetSizeBits = cfgPeriodic.PacketSize*8;              % Convert packet size from bytes to bits
 dataRateSeconds = cfgPeriodic.DataRate*1000;            % Convert data rate from kilobits/second to bits/second
@@ -16,7 +14,7 @@ while currentTime < simulationDuration
     packetCount = packetCount + 1;
     packetTimes(packetCount) = currentTime;
     packetSizes(packetCount) = packetSize;
-    fprintf("Time: %f s - Generated a periodic packet_%d of size %d bytes\n", currentTime, packetCount,packetSize);
+   % fprintf("Time: %f s - Generated a periodic packet_%d of size %d bytes\n", currentTime, packetCount,packetSize);
     currentTime = currentTime + dt/1000; % Convert ms to seconds for the next iteration
 end
 
