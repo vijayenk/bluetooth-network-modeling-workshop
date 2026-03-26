@@ -29,17 +29,17 @@ This repository contains the files required to run the **hands-on Bluetooth netw
 
 ## Exercises Included
 
-1. **Exercise 1** – Operate the simulation engine, configure Bluetooth nodes, create a simple network, and view statistics  
-2. **Exercise 2** – Build and simulate a **Bluetooth Low Energy (BLE) wireless sensor network**  
-3. **Exercise 3** – Simulate **audio streaming in a Bluetooth LE piconet**  
-4. **Exercise 4** – Model **Bluetooth and WLAN coexistence**
+- **Exercise 1** – Operate the simulation engine, configure Bluetooth nodes, create a simple network, and view statistics  
+- **Exercise 2** – Build and simulate a **Bluetooth Low Energy (BLE) wireless sensor network**  
+- **Exercise 3** – Simulate **audio streaming in a Bluetooth LE piconet**  
+- **Exercise 4** – Model **Bluetooth and WLAN coexistence**
 
 ## Setup
 
 To Run:
 
-1. To conduct the workshop, use the "Exercise" files
-2. To simply run the completed exercises, run the following files in MATLAB:
+- To conduct the workshop, use the "Exercise" files
+- To simply run the completed exercises, run the following files in MATLAB:
 
 * EXPL1\_BLE\_Simplest\_Network\.mlx
 * EXPL2\_BLE\_Sensor\_Network\.mlx
